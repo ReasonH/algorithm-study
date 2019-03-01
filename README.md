@@ -1,5 +1,6 @@
 # Algorithm_study
-## The Algorithm_study repository was made to store my daily study by category 
+## The Algorithm_study repository was made to store my daily source code.
+## Most of the source code will be written by CPP.
 ## I got some advice on how to study in the following [link].
 https://baactree.tistory.com/14 <br>
 https://baactree.tistory.com/52
