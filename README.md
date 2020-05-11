@@ -33,3 +33,9 @@ https://baactree.tistory.com/52
 + Brute Force Search _3_
 + Finding minimum in section
 + Finding total value in section
+
+---
+
+## 2020-SS
+
+[삼성 소프트웨어 역량 테스트 기출 문제집](https://www.acmicpc.net/workbook/view/1152)
