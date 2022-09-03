@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 class ValidParentheses {
     public boolean isValid(String s) {
         char[] braces = s.toCharArray();
