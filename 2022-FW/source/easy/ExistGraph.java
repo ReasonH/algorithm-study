@@ -1,3 +1,5 @@
+package easy;
+
 import java.util.*;
 
 class ExistGraph {
@@ -17,7 +19,6 @@ class ExistGraph {
         visited = new boolean[n];
         answer = false;
         dfs(source, destination);
-
         return answer;
     }
 
